@@ -37,7 +37,7 @@
 
 <ul>
 
-<br><b>Escuela</b><br>
+<br><b>Primaria y Secundaria</b><br>
 <br><li>Colegio Agustiniano Nuestra Señora del Buen Consejo</li><br>
 <br><b>Superior</b><br>
 <br><li>Universidad de Panama </li><br>
