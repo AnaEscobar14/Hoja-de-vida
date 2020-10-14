@@ -10,7 +10,7 @@
 <p><b></b></p><h2><b>DATOS PRESONALES</b></h2><p></p>
 
 <table border="1" width="60%" height="160">
-<tbody><tr><td><b>Cedula:  </b></td> <td>6-724-2075</td>
+<tbody><tr><td><b>Cédula:  </b></td> <td>6-724-2075</td>
 </tr><tr><td><b>Apellidos:  </b></td> <td>Escobar Vergara</td> 
 </tr><tr><td><b>Nombres:  </b></td> <td>Ana Carolina</td>
 </tr><tr><td><b>Nacionalidad:  </b></td> <td>Panameña</td>
@@ -19,7 +19,7 @@
 </tr><tr><td><b>Fecha de Nacimiento:  </b></td>
   <td> 14 de febrero de 2002 </td>
   </tr><tr><td><b>Edad:  </b></td>
-  <td>18 </td>
+  <td>18 años </td>
 </tr><tr><td><b>Estado Civil:  </b></td>
   <td>Soltera
 </td></tr><tr><td><b>Direccion:  </b></td>
