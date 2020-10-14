@@ -1,64 +1,56 @@
-<html>
-<head>
-<title> HOJA DE VIDA DE ANA ESCOBAR</title>
+<html><head>
+<title> HOJA DE VIDA DE ANA ESCOBAR </title>
 
 
 </head>
 <body bgcolor="PINK">
-<p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
-<hr width="600" SIZE =15 bgcolor >
+<p><b></b></p><h1><b><font> HOJA DE VIDA DE ANA ESCOBAR</font>  </b></h1><p></p>
+<hr width="600" size="15" bgcolor="">
 
-<P><b><H2>DATOS PRESONALES</H2></b></P>
-<TR>
-<TABLE border="1" width="60%" height="160" >
-<TR><TD><B>Cédula:  </B></TD> <TD >6-724-2075</TD>
-<TR><TD><B>Apellidos:  </B></TD> <TD>Escobar Vergara</TD>   
-<TR><TD><B>Nombres:  </B></TD> <TD>Ana Carolina</TD> 
-<TR><TD><B>Nacionalidad:  </B></TD> <TD>Panameña</TD> 
-<TR><TD><B>Lugar de Nacimiento:  </B></TD>
-  <TD>Chitré, Herrera</TD> 
-<TR><TD><B>Fecha de Nacimiento:  </B></TD>
-  <TD> 14 de febrero de 2002 </TD> 
-  <TR><TD><B>Edad:  </B></TD>
-  <TD>18 años </TD> 
-<TR><TD><B>Estado Civil:  </B></TD>
-  <TD>Soltera
-<TR><TD><B>Direccion:  </B></TD>
-  <TD>Urbanización Caride</TD>
-<TR><TD><B>Email:  </B></TD>
-  <TD>anizzle14@gmail.com </TD> 
-<TR><TD><B>Telefono:  </B></TD>
-  <TD>+507 978-7123</TD> 
-<TR><TD><B>Celular:  </B></TD>
-  <TD>+507 6403-9161</TD> 
+<p><b></b></p><h2><b>DATOS PRESONALES</b></h2><p></p>
 
-</TABLE>
+<table border="1" width="60%" height="160">
+<tbody><tr><td><b>Cedula:  </b></td> <td>6-724-2075</td>
+</tr><tr><td><b>Apellidos:  </b></td> <td>Escobar Vergara</td> 
+</tr><tr><td><b>Nombres:  </b></td> <td>Ana Carolina</td>
+</tr><tr><td><b>Nacionalidad:  </b></td> <td>Panameña</td>
+</tr><tr><td><b>Lugar de Nacimiento:  </b></td>
+  <td>Chitré, Herrera</td>
+</tr><tr><td><b>Fecha de Nacimiento:  </b></td>
+  <td> 14 de febrero de 2002 </td>
+  </tr><tr><td><b>Edad:  </b></td>
+  <td>18 </td>
+</tr><tr><td><b>Estado Civil:  </b></td>
+  <td>Soltera
+</td></tr><tr><td><b>Direccion:  </b></td>
+  <td> Urbanización Caride </td>
+</tr><tr><td><b>Email:  </b></td>
+  <td> anizzle14@gmail.com </td>
+</tr><tr><td><b>Telefono:  </b></td>
+  <td> +507 978-7123 </td>
+</tr><tr><td><b>Celular:  </b></td>
+  <td> +507 6403-9161 </td>
 
-<P><b><H2>ESTUDIOS REALIZADOS</H2></b></P>
+</tr></tbody></table>
 
-<UL>
+<p><b></b></p><h2><b>ESTUDIOS REALIZADOS</b></h2><p></p>
 
-<BR><b>Primaria y Secundaria</b></BR>
- <BR><li>Colegio Agustiniano Nuestra Señora del Buen Consejo</li></BR>
-<BR><b>Superior</b></BR>
-<BR><li>Universidad de Panamá</li></BR>
-</UL>
+<ul>
 
-<P><b><H2>TITULO OBTENIDO</H2></b></P>
+<br><b>Escuela</b><br>
+<br><li>Colegio Agustiniano Nuestra Señora del Buen Consejo</li><br>
+<br><b>Superior</b><br>
+<br><li>Universidad de Panama </li><br>
+</ul>
 
-<TABLE BORDER="1"width="49%" height="45">
-<tr><td><b>BACHILLER</b></td><TD> <a href="http://190.152.10.222/download/0802085332_18012013_1851.html">Licenciatura en Química</a></td></tr>
-</table>
+<p><b></b></p><h2><b><b>REFERENCIAS PERSONALES</b></b></h2><p></p><b>
 
-
-<P><b><H2><b>REFERENCIAS PERSONALES</H2></b></P>
-
-<TABLE BORDER="1"width="49%" height="45">
-<tr><td><b>Sor Tereza</b></td><TD>+507 6780-6714</td></tr>
-<tr><td><b>Sor Mariela</b></td><td>+507 6704-3357</td></tr>
-</table>
+<table border="1" width="49%" height="45">
+<tbody><tr><td><b>Sor Tereza </b></td><td>6780-6714</td></tr>
+<tr><td><b>Sor Mariela </b></td><td>6704-3357</td></tr>
+</tbody></table>
 
 
-</TABLE>
-</body>
-</html>
+
+
+</b></body></html>
